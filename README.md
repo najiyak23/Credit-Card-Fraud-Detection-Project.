@@ -3,6 +3,7 @@
 This project focuses on detecting fraudulent credit card transactions using **Machine Learning**.  
 The main goal is to identify suspicious activity in financial transaction data and help minimize financial loss due to fraud.  
 The dataset is highly imbalanced, making this a realistic and challenging problem in applied data science.
+ - Click here to read the project [Credit Fraud Detection Project](https://colab.research.google.com/drive/1MVErAlNDPA8-LRGt5HU2hQIbLWRv6AaB?usp=sharing)
 
 ---
 
